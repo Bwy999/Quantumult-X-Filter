@@ -18,7 +18,29 @@ host-suffix,youtube-nocookie.com
 host-suffix,youtube.com
 host-suffix,yt.be
 host-suffix,ytimg.com
+host,lens.l.google.com
 host-keyword,gmail
 host-keyword,google
+# Google
+# > AI Studio
+host-suffix,generativeai.google
+host-suffix,makersuite.google.com
+host,aistudio.google.com
+host,alkalicore-pa.clients6.google.com
+host,alkalimakersuite-pa.clients6.google.com
+# > DeepMind
+host-suffix,deepmind.com
+host-suffix,deepmind.google
+# > Gemini
+host-suffix,proactivebackend-pa.googleapis.com
+host-suffix,geller-pa.googleapis.com
+host-suffix,generativelanguage.googleapis.com
+host,ai.google.dev
+host,bard.google.com
+host,gemini.google.com
+# > NotebookLM
+host-keyword,notebooklm.google
+# > Search Labs
+host-keyword,labs.google
 ip-cidr,173.194.0.0/16,no-resolve
 ip-cidr,74.125.0.0/16,no-resolve
